@@ -37,6 +37,6 @@ zustand (localStorage persistence) · `@anthropic-ai/sdk` · `openai`.
 
 ### Check live demo on netlify.
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/3071c9eb-2a29-4d00-9da3-14fc51a1f278/deploy-status?branch=main)](https://app.netlify.com/projects/promptevaluation/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3071c9eb-2a29-4d00-9da3-14fc51a1f278/deploy-status)](https://app.netlify.com/projects/promptevaluation/deploys)
 
 [Live Demo](https://promptevaluation.netlify.app/)
